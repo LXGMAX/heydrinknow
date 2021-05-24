@@ -1,7 +1,7 @@
 # drinknow
 喂！三点几嚟！饮下水先！
 
-## Linux
+## Linux / Unix / macOS
 执行`crontab -e`  
 添加以下语句，your_path换成你的drink.py文件路径  
 `*/10`是每隔十分钟
